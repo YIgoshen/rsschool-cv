@@ -30,4 +30,20 @@ Experience
 2021-2022
 :   **Full-stack developer,** Freelance.
 
+Technical Skills
+--------------------
 
+    * HTML, CSS
+    * JavaScript
+    * React JS
+    * Node JS, Express JS
+    * Ruby on Rails
+    * SQL, Mongo DB
+
+Languages
+----------------------------------------
+
+
+     * English (B2)
+     * Kazakh
+     * Russian
