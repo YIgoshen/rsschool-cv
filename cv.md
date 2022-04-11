@@ -16,3 +16,18 @@ Education
 :   **Bachelor,** Oil and gas business
 
     *National Technical University (Almaty)*
+
+
+Experience
+----------
+
+2019
+:   **Front-end developer,** NSK Insurance Co.
+
+2020
+:   **Full-stack developer,** Powr Co.
+
+2021-2022
+:   **Full-stack developer,** Freelance.
+
+
