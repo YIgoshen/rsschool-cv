@@ -1,0 +1,43 @@
+body {
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  line-height: 1.428571429;
+  background-color: #fff;
+  font-size: 14px;
+  line-height: 20px;
+  color: rgba(0, 0, 0, 0.7);
+  height: 100%;
+  margin: 0;
+}
+
+.main {
+  width: 60%;
+  height: 85vh;
+  margin: 0 auto;
+}
+
+.footer {
+  padding: 15px 0;
+  background-color: navajowhite;
+  height: 15vh;
+}
+
+.footer ul {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.footer li img {
+  width: 50px;
+}
+
+.footer li {
+  list-style: none;
+}
+
+.footer a, .footer li {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.7);
+}
