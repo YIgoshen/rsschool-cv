@@ -1,0 +1,14 @@
+body {
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  line-height: 1.428571429;
+  background-color: #fff;
+  font-size: 14px;
+  line-height: 20px;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.main {
+  width: 80%;
+  margin: 0 auto;
+}
