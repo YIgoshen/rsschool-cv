@@ -1,1 +1,1 @@
-The link for [CV](https://yigoshen.github.io/rsschool-cv/cv)
+The link for [CV](https://yigoshen.github.io/rsschool-cv/)
