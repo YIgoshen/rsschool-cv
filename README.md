@@ -1,0 +1,1 @@
+[The link to CV](https://YIgoshen.github.io/rsschool-cv/) 
