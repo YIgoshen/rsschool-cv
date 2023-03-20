@@ -27,7 +27,7 @@ Experience
 2020
 :   **Full-stack developer,** Powr Co.
 
-2021-2022
+2021-2023
 :   **Full-stack developer,** Freelance.
 
 Technical Skills
@@ -37,13 +37,14 @@ Technical Skills
     * JavaScript
     * React JS
     * Node JS, Express JS
-    * Ruby on Rails
+    * Ruby, Ruby on Rails
     * SQL, Mongo DB
 
 Languages
 ----------------------------------------
 
 
-     * English (B2)
-     * Kazakh
-     * Russian
+    * Russian
+    * Kazakh
+    * English (B1)
+
